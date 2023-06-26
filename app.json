@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/wisies/rafow/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/GOGTB00/ojhew/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/wisies/rafow/master/etc/wry.json"
+            "value": "https://raw.githubusercontent.com/GOGTB00/ojhew/master/etc/wry.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/wisies/rafow/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/GOGTB00/ojhew/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/wisies/rafow",
-    "repository": "https://github.com/wisies/rafow",
+    "website": "https://github.com/GOGTB00/ojhew",
+    "repository": "https://github.com/GOGTB00/ojhew",
     "stack": "container"
 }
